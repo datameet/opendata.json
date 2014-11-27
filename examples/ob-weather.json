@@ -1,0 +1,78 @@
+ {
+      "name": "Open Bangalore Weather Data",
+      "description": "Open Bangalore Weather Data",
+      "image": "",
+      "humanURL": "github.com/openbangalore/weather",
+      "copyright":{
+          "holder":"Thejesh GN",
+          "type":"CC BY-SA 3.0",
+          "url":"https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "tags": [
+        "Bangalore",
+        "Weather"
+      ],
+      "SpecificationVersion": "0.1",
+      "created": "2014-11-27",
+      "modified": "2014-11-27",
+      "dataURL": [
+        {
+          "name":"For the month of Feb 2014" ,
+          "format": "csv",
+          "compressed":"no",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_02.csv",
+          "created": "2014-02",
+          "modified": "2014-02"
+        },
+        {
+          "name":"For the month of Mar 2014" ,
+          "format": "csv",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_03.csv",
+          "compressed":"no",
+          "created": "2014-03",
+          "modified": "2014-03"
+        },
+        {
+          "name":"For the month of Apr 2014" ,
+          "format": "csv",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_04.csv",
+          "compressed":"no",
+          "created": "2014-04",
+          "modified": "2014-04"
+        },
+        {
+          "name":"For the month of May 2014" ,
+          "format": "csv",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_05.csv",
+          "compressed":"no",
+          "created": "2014-05",
+          "modified": "2014-05"
+        },
+        {
+          "name":"For the month of Jun 2014" ,
+          "format": "csv",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_06.csv",
+          "compressed":"no",
+          "created": "2014-06",
+          "modified": "2014-06"
+        },
+        {
+          "name":"For the month of Jul 2014" ,
+          "format": "csv",
+          "url": "https://github.com/openbangalore/weather/raw/master/data/2014_07.csv",
+          "compressed":"no",
+          "created": "2014-07",
+          "modified": "2014-07"
+        }
+
+      ],
+      "contact": [
+        {
+          "FN": "Thejesh GN",
+          "email": "i@@thejeshgn.com",
+          "X-twitter": "thej",
+          "X-Github": "openbangalore",
+          "url":"http://thejeshgn.com"
+        }
+      ]
+    }
